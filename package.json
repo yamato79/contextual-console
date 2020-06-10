@@ -1,11 +1,16 @@
 {
   "name": "contextual-console",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/index.js",
   "author": "Jonathan Tordesillas <yamato.takato@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/yamato79/contextual-console"
   },
+  "keywords": [
+    "console.log",
+    "contextual",
+    "console"
+  ],
   "license": "MIT"
 }
